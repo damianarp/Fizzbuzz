@@ -26,11 +26,17 @@ Configure jest:
 npx jest --init
 ```
 _Would you like to use Jest when running "test" script in "package.json"?_ NO
+
 _Would you like to use TypeScript for the configuration file?_ NO
+
 _Choose the test enviroment that will be used for testing:_ NODE
+
 _Do you want Jest to add coverage reports?_ YES
+
 _What provider should be used to instrument code for coverage?_ V8
+
 _Automatically clear mock calls and instances beetween every test?_ YES
+
 
 Create a new file named fizzbuzz.js and fizzbuzz.test.js
 
